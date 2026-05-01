@@ -1,0 +1,94 @@
+{
+
+        "recipe_name" : "Chocolate Chip Cookies",
+        "notes" : "a classic cookie recipe",
+        "ingredients" : [
+            {
+                "name" : "butter",
+                "ammounts": {
+                    "amomunt" : "1",
+                    "unit" : "lb"
+
+                },
+                "notes" : "softened"
+            },
+            {
+                "name" : "Brown Sugar",
+                "ammounts": {
+                    "amomunt" : "1 1/2 ",
+                    "unit" : "cups"
+
+                }
+            },
+            {
+                "name" : "white sugar",
+                "ammounts": {
+                    "amomunt" : "1",
+                    "unit" : "cups"
+
+                }
+            },
+            {
+                "name" : "eggs",
+                "ammounts": {
+                    "amomunt" : "3",
+                    "unit" : "each"
+
+                }
+            },
+            {
+                "name" : "vanilla",
+                "ammounts": {
+                    "amomunt" : "2",
+                    "unit" : "tsp"
+
+                }
+            },
+            {
+                "name" : "Baking soda",
+                "ammounts": {
+                    "amomunt" : "1 1/2",
+                    "unit" : "tsp"
+
+                }
+            },
+            {
+                "name" : "salt",
+                "ammounts": {
+                    "amomunt" : "1/2",
+                    "unit" : "tsp"
+
+                }
+            },
+            {
+                "name" : "flour",
+                "ammounts": {
+                    "amomunt" : "5",
+                    "unit" : "cups"
+
+                }            
+            },
+            {
+                "name" : "semi-sweet chocolate chips",
+                "ammounts": {
+                    "amomunt" : "2",
+                    "unit" : "cups"
+
+                }
+            },
+            {
+                "name" : "shredded coconut",
+                "ammounts": {
+                    "amomunt" : "1-2",
+                    "unit" : "cups"
+
+                }
+            }
+        ],
+        "steps" : [
+            " Cream the butter and sugar together, then beat in the eggs and vanilla",
+            "Mix in salt, soda and flour",
+            "Add chocolate chips and coconut",
+            "Bake 8-10 minutes at 350 F"
+        ]
+}
